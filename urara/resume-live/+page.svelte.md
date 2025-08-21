@@ -10,6 +10,28 @@ flags: ["unlisted"]
 
 <div class="rounded-lg shadow p-4 bg-base-100 border border-gray-200 mb-4">
   <div class="flex items-start gap-3">
+    <a href="https://haihasg.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/haihasg-logo.png" alt="Hai Ha SG logo" class="h-8 w-auto rounded mt-0.5" />
+    </a>
+    <div class="flex-1 text-left w-full">
+      <div class="flex justify-between items-baseline w-full">
+        <div class="font-semibold text-lg">Marketing & Technology Specialist</div>
+        <div class="text-sm opacity-70 whitespace-nowrap">July 2025 – now</div>
+      </div>
+      <div class="text-sm opacity-70 mt-0.5">Hai Ha Education</div>
+    </div>
+  </div>
+
+  <a href="https://haihasg.com/" class="underline text-sm mt-1 inline-block">Link to website</a>
+
+  <ul class="mt-3 space-y-1 text-left list-square list-inside">
+    <li>Led the development of innovative digital products that enhance the learning experience, such as an e-learning platform and online multimedia resources</li>
+    <li>Developed go-to-market strategies and promotional campaigns to increase client retention, drive adoption and engagement for new e-products</li>
+  </ul>
+</div>
+
+<div class="rounded-lg shadow p-4 bg-base-100 border border-gray-200 mb-4">
+  <div class="flex items-start gap-3">
     <a href="https://polaron.org/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/polaron-connect-logo.png" alt="Polaron Connect logo" class="h-8 w-auto rounded mt-0.5" />
     </a>
@@ -27,6 +49,7 @@ flags: ["unlisted"]
   <ul class="mt-3 space-y-1 text-left list-square list-inside">
     <li>Project managed the rebranding to Polaron Connect, leading the website launch and comprehensive branding change</li>
     <li>Delivered high-impact marketing campaigns and content, driving business growth and engagement</li>
+    <li>Transitioned in mid-July to an Independent Contractor role, continuing to work on projects while pursuing further studies and opportunities.</li>
   </ul>
 </div>
 

@@ -1,10 +1,11 @@
 <script lang='ts'>
   import { site } from '$lib/config/site'
-  import { Linkedin, Mail, FileText } from 'lucide-svelte'
+  import { Linkedin, Mail, FilePen, Github } from 'lucide-svelte'
   const iconMap = {
     'lucide:linkedin': Linkedin,
     'lucide:mail': Mail,
-    'lucide:file-text': FileText
+    'lucide:file-pen': FilePen,
+    'lucide:github': Github
   }
 </script>
 

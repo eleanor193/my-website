@@ -19,10 +19,10 @@ flags: ["unlisted"]
 
 <Project
   id="Projects underway"
-  title="...and more projects underway!"
+  title="...and more projects underway"
   image="./assets/coding-icon.png"
   tags={["webdev", "coding"]}
-  description="I will keep learning and building more things."
+  description="I'm building!"
   link=""
   techLabel="learning"
 />

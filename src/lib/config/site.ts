@@ -3,10 +3,15 @@ import type { SiteConfig } from '$lib/types/site'
 export const site: SiteConfig = {
   author: {
     avatar: '/assets/eleanor_headshot.JPG',
-    bio: 'Marketing professional + AI enthusiast',
+    bio: 'Marketing professional + aspiring ML engineer',
     name: 'Eleanor Truong',
     status: '🌸',
     metadata: [
+      {
+        icon: 'lucide:github',
+        link: 'https://github.com/eleanor193',
+        text: 'GitHub'
+      },
       {
         icon: 'lucide:linkedin',
         link: 'https://www.linkedin.com/in/eleanor-truong-956b26190/',
@@ -19,10 +24,10 @@ export const site: SiteConfig = {
         text: 'Email'
       },
       {
-        icon: 'lucide:file-text',
+        icon: 'lucide:file-pen',
         link: 'https://eleanortruong.substack.com/',
         text: 'Substack'
-      }
+      },
     ]
   },
   description: 'Powered by SvelteKit/Urara',
