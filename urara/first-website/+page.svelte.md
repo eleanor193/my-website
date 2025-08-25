@@ -18,10 +18,9 @@ This was part of our Rebranding project: a top-to-bottom transformation of our v
 
 Here’s how it happened:
 
-- Months of reflecting, brainstorming and planning
-- Translating that into a clear vision for the website
+- Translating ideas into a clear vision for the website
 - Mapping out structure and content
-- And finally… building. 🛠️
+- Building and iterating 🛠️
 
 The site runs on WordPress with an army of plugins – think forms, analytics, spam-cleaning and more – to keep things running satisfactorily (plugins, however, have their own pitfalls). For the visual build, Elementor Pro (plus some add-ons) was the way to go.
 
