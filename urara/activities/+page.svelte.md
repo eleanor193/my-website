@@ -31,37 +31,53 @@ flags: ["unlisted"]
 <YouTube youTubeId="C7FaJyHDZUs" />
 
 ## Community engagement 
-- Here are some examples of my community presence:
+Here are some examples of my community presence:
 
-* With Cr Lana Formoso, City of Greator Dandenong, at the Fiji Day Multicultural Festival, celebrating the Independence Day of Fiji:
 ![Fijian_festival](./assets/fijian_festival.jpg)
+With Cr Lana Formoso, City of Greator Dandenong, at the Fiji Day Multicultural Festival, celebrating the Independence Day of Fiji
+<br>
 
-* Representing Polaron at the EOY event hosted by the Australia-China Young Professionals Initiative (ACYPI). Here I'm with ACYPI's President, Judy Gao:
+
 ![with_ACYPI_president](./assets/with_ACYPI_president.jpg)
+Representing Polaron at the EOY event hosted by the Australia-China Young Professionals Initiative (ACYPI). Here I'm with ACYPI President, Judy Gao
+<br>
 
-* Celebrating Lunar New Year at a local community event, hosted by 聊聊家常:
 ![liao_liao_jia_chang](./assets/liao_liao_jia_chang.jpg)
+Celebrating Lunar New Year at a local community event, hosted by 聊聊家常
+<br>
 
-* I'm part of the active network of Australia Latam Emerging Leaders Dialogue (ALELD), a non-profit organisation dedicated to strengthening relationship between Australia and Latin America :
 ![ALELD_event](./assets/at_ALELD_event.jpg)
+I'm part of the active network of Australia Latam Emerging Leaders Dialogue (ALELD), a non-profit organisation dedicated to strengthening relationship between Australia and Latin America
+<br>
 
-* Representing Polaron and contributing at the first event of Australian Professionals of Multicultural Communities (APOC), an emerging community organisation dedicated to supporting multicultural professionals:
 ![ethical_AI_event](./assets/APOC_ethical_AI.jpeg)
+Representing Polaron and contributing at the first event of Australian Professionals of Multicultural Communities (APOC), an emerging community organisation dedicated to supporting multicultural professionals
+<br>
 
-* Helping the Polaron crew at the Community Information Session on Protection visas, hosted in collaboration with the Department of Home Affairs, speaking to the community about the new changes to Protection visas and available assets in 19 languages:
 ![PPV_event](./assets/ppv_event.jpeg)
+Helping the Polaron crew at the Community Information Session on Protection visas, hosted in collaboration with the Department of Home Affairs, speaking to the community about the new changes to Protection visas and available assets in 19 languages
+<br>
 
-* I loved organising Polaron's monthly Lunch and Learn, dedicated to bringing organisations and communities together for discussions on pressing issues. Here is one in June, in collaboration with Max Solutions, on education and workforce freedom:
 ![lunch_and_learn](./assets/lunch_and_learn.jpeg)
+I loved organising Polaron's monthly Lunch and Learn, dedicated to bringing organisations and communities together for discussions on pressing issues. Here is one in June, in collaboration with Max Solutions, on education and workforce freedom
+<br>
 
-* With my colleague and Nour Haydar, Host and Senior Producer at The Guardian, at “The Man Question: Engaging Migrant and Refugee Men in Gendered Violence Prevention” by Multicultural Centre for Women's Health:
 ![MCWH_event](./assets/MCWH_event.jpg)
+With my colleague and Nour Haydar, Host and Senior Producer at The Guardian, at “The Man Question: Engaging Migrant and Refugee Men in Gendered Violence Prevention” by Multicultural Centre for Women's Health
+<br>
 
-* With the amazing committee of Monash Media Communication Society (MACS) – the firstever student society dedicated to media, film, and journalism students:
+![MMF](./assets/mmf.jpg)
+Representing Polaron at the Melbourne Marketing Forum. I had the pleasure of connecting with Simon Tran and the team from ANGRYChair, who spoke creatively and inspiringly about the future of video production in the age of AI.
+<br>
+
+
 ![MACS](./assets/MACS.jpg)
+With the amazing committee of Monash Media Communication Society (MACS) – the firstever student society dedicated to media, film, and journalism students
+<br>
 
-* On a different note, I'm very into tech! Here's me speaking on my team's work at Heidi Health's hackathon:
 ![Heidi_hackathon](./assets/heidi_hackathon.jpg)
+On a different note, I'm very into tech! Here's me speaking on my team's work at Heidi Health's hackathon
+<br>
 
 
 
