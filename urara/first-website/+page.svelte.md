@@ -14,7 +14,7 @@ I’ve done everything from creating high-impact resources to generating new lea
 
 This was part of our Rebranding project: a top-to-bottom transformation of our visual identity to match our growing range of services. And at the heart of that rebrand was a brand new website that brought everything together.
 
-![Excited gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZkZWs2NWdwMjQ5dWJ3MGVpbjIxMHFwaGEzYWR3bmJja2xhcjVnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JERsqkIHhc3QkONRyM/giphy.gif)
+[media0_giphy]
 
 Here’s how it happened:
 
